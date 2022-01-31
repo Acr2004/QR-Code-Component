@@ -17,7 +17,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 280px;
+    width: 290px;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     border-radius: 20px;
@@ -25,7 +25,7 @@ body {
 }
 
 #image {
-    max-width: 280px;
+    max-width: 290px;
     border-radius: 12px;
 }
 
