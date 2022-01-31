@@ -27,3 +27,7 @@ The designs were created to the following widths:
 
 - **Family:** [Outfit](https://fonts.google.com/specimen/Outfit)
 - **Weights:** 400 / 700
+
+## Final Result
+
+**Link:** [Click Here](https://acr2004.github.io/QR-Code-Component/)
