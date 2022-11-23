@@ -30,6 +30,7 @@ main {
     background-color: var(--white);
     text-align: center;
     border-radius: 20px;
+    box-shadow: 0 20px 20px 5px rgba(0, 0, 0, 0.1);
 }
 
 img {
@@ -41,13 +42,13 @@ img {
 h1 {
     color: var(--dark-blue);
     font-weight: 700;
-    font-size: 23px;
+    font-size: 22px;
     padding: 20px 20px 15px 20px;
 }
 
 p {
     color: var(--grayish-blue);
     font-weight: 400;
-    font-size: 16px;
-    padding: 0 20px;
+    font-size: 15px;
+    padding: 0 30px;
 }
