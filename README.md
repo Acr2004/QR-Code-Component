@@ -52,8 +52,8 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ricardo-piedade-qr-card-component-vOe6aRYj_o)
+- Live Site URL: [Live Site](https://acr2004.github.io/QR-Code-Component/)
 
 ## Author
 
